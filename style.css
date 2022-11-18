@@ -3,3 +3,89 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+
+img{
+  margin-left: 23%;
+  /* text-align: center; */
+
+}
+a{
+  padding-left: 10px;
+  color: blueviolet;
+
+}
+figcaption{
+  text-align: center;
+  font-size: medium;
+}
+
+/* #featured-property{ */
+  /* width: 800px; */
+
+
+
+p{
+  text-align: center;
+  margin-left: 28%;
+  margin-right: 28%;
+
+}
+#details{
+  
+  display: inline-flex;
+  /* background-color: red; */
+  /* text-align: center; */
+  /* width: 10%; */
+ justify-content:space-between; 
+  background-color: red;
+/* text-align: justify; */
+  width: 70%;
+  height: 30%; */
+  padding-left: 12%;
+
+  float: left;
+  width: auto;
+  padding-left: 35%; 
+
+
+}
+
+
+
+
+
+
+
+
+/* h1{
+  text-align: center;
+
+}
+
+nav {
+  text-align: center;
+}
+p{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#featured-property{
+  margin-left: 20%;
+
+}
+
+#details{
+  display: inline-flex;
+background-color: red;
+/* text-align: center; */
+/* width: 100%;
+text-align: center;
+
+
+} */ */
